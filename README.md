@@ -1,4 +1,4 @@
-# playerCounter
+# winRecorder
 
 Welcome to the counter!
 
